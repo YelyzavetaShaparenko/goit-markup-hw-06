@@ -1,12 +1,6 @@
 {
   "postcssSorting.config": {
-    "sort-order": [
-      ["custom-properties"],
-      ["dollar-variables"],
-      ["declarations"],
-      ["at-rules"],
-      ["rules"]
-    ],
+    "sort-order": [["custom-properties"], ["dollar-variables"], ["declarations"], ["at-rules"], ["rules"]],
     "properties-order": [
       "content",
       "position",
@@ -260,5 +254,6 @@
     "dollar-variable-empty-line-before": 1,
     "empty-lines-before-comment": 1,
     "empty-lines-after-comment": 1
-  }
+  },
+  "liveServer.settings.port": 5501
 }
